@@ -1,0 +1,11 @@
+ai-assisted-tdd/.idea/
+ai-assisted-tdd/gradlew
+ai-assisted-tdd/gradlew.bat
+ai-assisted-tdd/gradle/wrapper/
+ai-assisted-tdd-demo/.gradle/
+ai-assisted-tdd-demo/gradlew
+ai-assisted-tdd-demo/gradlew.bat
+ai-assisted-tdd-demo/.idea/
+ai-assisted-tdd-demo/gradle/wrapper/
+ai-assisted-tdd-demo/.chatgpt/
+ai-assisted-tdd-demo/build/

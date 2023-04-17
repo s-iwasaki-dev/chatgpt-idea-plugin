@@ -1,0 +1,1 @@
+rootProject.name = "ai-assisted-tdd"
